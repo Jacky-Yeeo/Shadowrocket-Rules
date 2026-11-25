@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,byteplus.com
 DOMAIN-SUFFIX,byteplusapi.com
 DOMAIN-SUFFIX,bytepluses.com
-# Shared Volcano Engine / BytePlus suffix
-DOMAIN-SUFFIX,volces.com
+# Specific overseas Volcano Engine hosts (replaces the broad volces.com suffix)
+gator.volces.com
+apmplus.ap-southeast-1.volces.com
