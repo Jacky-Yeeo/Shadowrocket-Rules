@@ -91,8 +91,7 @@ https://raw.githubusercontent.com/Jacky-Yeeo/Shadowrocket-Rules/release/tiktok_i
 | `apple_ip.list` | IP | Apple 相关 IP |
 | `bilibili.list` | 域名 | Bilibili 相关域名 |
 | `bilibili_ip.list` | IP | Bilibili 相关 IP |
-| `byteplus.list` | 域名 | BytePlus 相关域名 |
-| `bytepluses.list` | 域名 | BytePlus 海外服务域名 |
+| `byteplus.list` | 域名 | BytePlus 相关域名（含海外服务域名） |
 | `cloudflare.list` | 域名 | Cloudflare 相关域名 |
 | `cloudflare_ip.list` | IP | Cloudflare 相关 IP |
 | `cn.list` | 域名 | 中国大陆常用域名 |
